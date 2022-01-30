@@ -6,6 +6,7 @@ DELAY : 5000
 COMMENT : unlock bot checking
 PLAY MACRO : D:\talesrunner-bot\unlock_bot_checking\unlock bot checking.mcr
 REPEAT : 100000 : 0 : 0 : Enter the number of iterations: : 0 : 0
+DELAY : 1000
 COMMENT : start game
 PLAY MACRO : D:\talesrunner-bot\common\start_game.mcr
 COMMENT : start after 30 sec
