@@ -14,5 +14,5 @@ Keyboard : Escape : KeyPress
 DELAY : 500
 Keyboard : Escape : KeyPress
 ENDIF
-ENDIF
 DELAY : 60000
+ENDIF
