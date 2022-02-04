@@ -1,4 +1,4 @@
-DELAY : 519
+DELAY : 550
 Keyboard : Left : KeyDown
 DELAY : 513
 Keyboard : Left : KeyDown
