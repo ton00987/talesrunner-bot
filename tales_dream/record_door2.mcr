@@ -1,24 +1,8 @@
-DELAY : 550
+DELAY : 7500
 Keyboard : Left : KeyDown
-DELAY : 513
-Keyboard : Left : KeyDown
-DELAY : 34
-Keyboard : Left : KeyDown
-DELAY : 31
+DELAY : 2000
 Keyboard : Left : KeyDown
 DELAY : 34
-Keyboard : Left : KeyDown
-DELAY : 32
-Keyboard : Left : KeyDown
-DELAY : 34
-Keyboard : Left : KeyDown
-DELAY : 32
-Keyboard : Left : KeyDown
-DELAY : 34
-Keyboard : Left : KeyDown
-DELAY : 33
-Keyboard : Left : KeyDown
-DELAY : 33
 Keyboard : Left : KeyDown
 DELAY : 33
 Keyboard : Left : KeyDown
@@ -31,35 +15,13 @@ Keyboard : Up : KeyDown
 DELAY : 45
 Keyboard : Left : KeyUp
 DELAY : 16
+Keyboard : Right : KeyDown
+DELAY : 500
+Keyboard : Right : KeyUp
+DELAY : 10
 Keyboard : Z : KeyDown
 DELAY : 516
 Keyboard : Z : KeyDown
-DELAY : 33
-Keyboard : Z : KeyDown
-DELAY : 31
-Keyboard : Z : KeyDown
-DELAY : 32
-Keyboard : Z : KeyDown
-DELAY : 34
-Keyboard : Z : KeyDown
-DELAY : 33
-Keyboard : Z : KeyDown
-DELAY : 34
-Keyboard : Z : KeyDown
-DELAY : 32
-Keyboard : Z : KeyDown
-DELAY : 32
-Keyboard : Z : KeyDown
-DELAY : 35
-Keyboard : Z : KeyDown
-DELAY : 32
-Keyboard : Z : KeyDown
-DELAY : 32
-Keyboard : Z : KeyDown
-DELAY : 34
-Keyboard : Z : KeyDown
-DELAY : 34
-Keyboard : Z : KeyDown
 DELAY : 32
 Keyboard : Z : KeyDown
 DELAY : 33
@@ -83,6 +45,10 @@ Keyboard : Z : KeyDown
 DELAY : 33
 Keyboard : Z : KeyDown
 DELAY : 33
+Keyboard : Z : KeyDown
+DELAY : 33
+Keyboard : Z : KeyDown
+DELAY : 32
 Keyboard : Z : KeyDown
 DELAY : 33
 Keyboard : Z : KeyDown
