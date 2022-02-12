@@ -99,3 +99,4 @@ ENDIF
 ENDIF
 ENDIF
 ENDIF
+PLAY MACRO : D:\talesrunner-bot\common\ok_button.mcr
