@@ -1,4 +1,6 @@
 PLAY MACRO : D:\talesrunner-bot\common\start_game.mcr
+Keyboard : Right : KeyPress
+DELAY : 10
 Keyboard : Up : KeyDown
 DELAY : 10
 Keyboard : Z : KeyDown
@@ -12,6 +14,8 @@ DELAY : 250
 Keyboard : ControlLeft : KeyDown
 DELAY : 150
 Keyboard : Z : KeyUp
+DELAY : 10
+Keyboard : Left : KeyPress
 DELAY : 10
 Keyboard : ControlLeft : KeyUp
 DELAY : 600
