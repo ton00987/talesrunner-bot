@@ -8,11 +8,11 @@ DELAY : 300
 Keyboard : ControlLeft : KeyDown
 DELAY : 10
 Keyboard : ControlLeft : KeyUp
-DELAY : 1000
+DELAY : 1100
 Keyboard : ControlLeft : KeyDown
 DELAY : 10
 Keyboard : ControlLeft : KeyUp
-DELAY : 300
+DELAY : 500
 Keyboard : ControlLeft : KeyDown
 DELAY : 10
 Keyboard : ControlLeft : KeyUp
