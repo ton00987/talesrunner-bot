@@ -15,8 +15,6 @@ Keyboard : ControlLeft : KeyDown
 DELAY : 150
 Keyboard : Z : KeyUp
 DELAY : 10
-Keyboard : Left : KeyPress
-DELAY : 10
 Keyboard : ControlLeft : KeyUp
 DELAY : 600
 DELAY : 100
