@@ -93,7 +93,11 @@ DELAY : 93
 Keyboard : ControlLeft : KeyUp
 DELAY : 46
 Keyboard : ControlLeft : KeyDown
-DELAY : 32
+DELAY : 93
+Keyboard : ControlLeft : KeyUp
+DELAY : 50
+Keyboard : ControlLeft : KeyDown
+DELAY : 40
 Keyboard : Z : KeyDown
 DELAY : 65
 Keyboard : ControlLeft : KeyUp
@@ -185,96 +189,30 @@ DELAY : 403
 Keyboard : Right : KeyUp
 DELAY : 235
 Keyboard : Right : KeyDown
-DELAY : 432
+DELAY : 532
 Keyboard : Right : KeyUp
-DELAY : 2389
+DELAY : 2000
 Keyboard : Left : KeyDown
-DELAY : 348
+DELAY : 500
 Keyboard : Left : KeyUp
-DELAY : 489
-Keyboard : Left : KeyDown
-DELAY : 222
-Keyboard : Left : KeyUp
-DELAY : 2730
-Keyboard : Left : KeyDown
-DELAY : 298
-Keyboard : Left : KeyUp
-DELAY : 1368
+DELAY : 200
 Keyboard : Right : KeyDown
-DELAY : 513
-Keyboard : Right : KeyDown
-DELAY : 35
-Keyboard : Right : KeyDown
-DELAY : 34
-Keyboard : Right : KeyDown
-DELAY : 30
-Keyboard : Right : KeyDown
-DELAY : 34
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 34
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 32
-Keyboard : Right : KeyDown
-DELAY : 34
-Keyboard : Right : KeyDown
-DELAY : 32
-Keyboard : Right : KeyDown
-DELAY : 32
-Keyboard : Right : KeyDown
-DELAY : 36
-Keyboard : Right : KeyDown
-DELAY : 32
-Keyboard : Right : KeyDown
-DELAY : 12
+DELAY : 200
 Keyboard : Right : KeyUp
-DELAY : 1119
-Keyboard : Left : KeyDown
-DELAY : 495
-Keyboard : Left : KeyUp
+DELAY : 3800
+Keyboard : ControlLeft : KeyPress
+DELAY : 450
+Keyboard : ControlLeft : KeyPress
+DELAY : 1600
+Keyboard : ControlLeft : KeyPress
+DELAY : 450
+Keyboard : ControlLeft : KeyPress
+DELAY : 700
 DELAY : 1331
-Keyboard : Right : KeyDown
-DELAY : 516
-Keyboard : Right : KeyDown
-DELAY : 32
-Keyboard : Right : KeyDown
-DELAY : 36
-Keyboard : Right : KeyDown
-DELAY : 30
-Keyboard : Right : KeyDown
-DELAY : 35
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 33
-Keyboard : Right : KeyDown
-DELAY : 31
-Keyboard : Right : KeyDown
-DELAY : 34
-Keyboard : Right : KeyDown
-DELAY : 36
-Keyboard : Right : KeyDown
-DELAY : 28
-Keyboard : Right : KeyDown
-DELAY : 17
-Keyboard : Right : KeyUp
-DELAY : 2066
+DELAY : 775
+Keyboard : ControlLeft : KeyPress
+DELAY : 550
+Keyboard : ControlLeft : KeyPress
+DELAY : 2166
 Keyboard : Up : KeyUp
 DELAY : 1548
