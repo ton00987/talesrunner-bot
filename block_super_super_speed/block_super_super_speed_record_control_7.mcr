@@ -1,4 +1,3 @@
-DELAY : 100
 Keyboard : Up : KeyDown
 DELAY : 9
 Keyboard : ControlLeft : KeyDown
