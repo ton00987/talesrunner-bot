@@ -6,7 +6,7 @@ DELAY : 100
 Keyboard : Enter : KeyPress
 DELAY : 100
 Keyboard : Escape : KeyPress
-DELAY : 100
+DELAY : 200
 Keyboard : Escape : KeyPress
 ELSE
 COMMENT : แยกส่วน
