@@ -10,7 +10,7 @@ DELAY : 100
 Keyboard : Enter : KeyPress
 DELAY : 100
 Keyboard : Escape : KeyPress
-DELAY : 200
+DELAY : 500
 Keyboard : Escape : KeyPress
 ELSE
 COMMENT : แยกส่วน
