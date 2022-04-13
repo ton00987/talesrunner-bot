@@ -1,5 +1,5 @@
 Keyboard : Z : KeyDown
-DELAY : 700
+DELAY : 800
 Keyboard : ControlLeft : KeyPress
 DELAY : 150
 Keyboard : ControlLeft : KeyDown
