@@ -1,4 +1,5 @@
 REPEAT : 100000 : 0 : 0 : Enter the number of iterations: : 0 : 0
+PLAY MACRO : D:\talesrunner-bot\common\main.mcr
 REPEAT : 2 : 0 : 0 : Enter the number of iterations: : 0 : 0
 PLAY MACRO : D:\talesrunner-bot\explorer_knight\explorer_knight.mcr
 DELAY : 1000
