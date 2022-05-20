@@ -67,7 +67,8 @@ ENDREPEAT
 DELAY : 500
 Keyboard : Down : KeyUp
 Keyboard : Left : KeyDown
-REPEAT : 2 : 0 : 0 : Enter the number of iterations: : 0 : 0
+DELAY : 1000
+REPEAT : 1 : 0 : 0 : Enter the number of iterations: : 0 : 0
 Keyboard : ControlLeft : KeyPress
 DELAY : 100
 Keyboard : ControlLeft : KeyPress
@@ -77,7 +78,13 @@ Keyboard : Left : KeyUp
 Keyboard : ControlLeft : KeyPress
 DELAY : 100
 Keyboard : ControlLeft : KeyPress
+COMMENT : slider
 Keyboard : Up : KeyDown
-DELAY : 1000
+DELAY : 2000
+Keyboard : ControlLeft : KeyPress
+Keyboard : Left : KeyDown
+DELAY : 200
+Keyboard : Left : KeyUp
+DELAY : 2000
 Keyboard : Up : KeyUp
 EXIT LOOP
