@@ -38,11 +38,22 @@ Keyboard : Left : KeyUp
 DELAY : 500
 COMMENT : after super jump
 Keyboard : Up : KeyDown
-DELAY : 1500
-PLAY MACRO : D:\talesrunner-bot\common\jump\initial.mcr
-REPEAT : 20 : 0 : 0 : Enter the number of iterations: : 0 : 0
+DELAY : 1300
+Keyboard : Right : KeyDown
+DELAY : 200
+Keyboard : Right : KeyUp
+REPEAT : 4 : 0 : 0 : Enter the number of iterations: : 0 : 0
 PLAY MACRO : D:\talesrunner-bot\common\jump\flash_jump.mcr
-Keyboard : Right : KeyPress
+ENDREPEAT
+DELAY : 500
+PLAY MACRO : D:\talesrunner-bot\common\jump\low_jump_700.mcr
+Keyboard : Right : KeyDown
+REPEAT : 4 : 0 : 0 : Enter the number of iterations: : 0 : 0
+PLAY MACRO : D:\talesrunner-bot\common\jump\flash_jump.mcr
+ENDREPEAT
+Keyboard : Right : KeyUp
+REPEAT : 10 : 0 : 0 : Enter the number of iterations: : 0 : 0
+PLAY MACRO : D:\talesrunner-bot\common\jump\flash_jump.mcr
 ENDREPEAT
 Keyboard : Up : KeyUp
 EXIT LOOP
