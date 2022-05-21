@@ -83,7 +83,7 @@ Keyboard : Up : KeyDown
 DELAY : 2000
 Keyboard : ControlLeft : KeyPress
 Keyboard : Left : KeyDown
-DELAY : 200
+DELAY : 150
 Keyboard : Left : KeyUp
 DELAY : 2000
 Keyboard : Up : KeyUp
